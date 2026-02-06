@@ -28,7 +28,7 @@ public class WebhookSolutionApplication {
             Map<String, String> requestBody = new HashMap<>();
             requestBody.put("name", "Nirupama Rajana");
             requestBody.put("regNo", "250850120112");
-            requestBody.put("email", "your-email@example.com");
+            requestBody.put("email", "nirupamarajana@gmail.com");
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
